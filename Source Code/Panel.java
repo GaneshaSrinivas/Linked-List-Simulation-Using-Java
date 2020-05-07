@@ -1,7 +1,6 @@
 /*
- * Name: Bilawal Sheikh
- * Student Number: 500563972
- * Date: Tuesday April 8, 2014
+ * Developed By Ganesha S
+ * http://ganeshas.azurewebsites.net/
  * 
  */
 import java.awt.Color;
